@@ -1,2 +1,3 @@
 # rise-esti.github.io
-Blog du site https://ti-asa.esti.mg
+
+Ce projet n'est plus maintenu à cause des problèmes internes
